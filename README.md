@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppommsich
+- 👋 Hi, I’m ppp
 - 👀 I’m interested in music. 
 - 🌱 I’m currently learning python.
 
